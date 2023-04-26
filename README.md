@@ -1,3 +1,3 @@
 # Mushroom-Classification
-Safe to eat or deadly poison
-classification using logistic regression and SVM
+<p>Safe to eat or deadly poison</p>
+<p>classification using logistic regression and SVM</p>
