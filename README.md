@@ -32,6 +32,15 @@ Il n'y a pas d'amélioration.
 
 ### ACP
 Etait-il pertinent de prendre toutes les dimentions à notre disposition? Nous allons y répondre en faisant une analyse en composante principale (ACP).
+**Les corrélations**
+<img src="./result/corr.png"/>
+
+On remarque qu'il y'a des features fortements corrélés comme **gill-attachment** et **veil-color**.
+
+**Eboulis des valeurs propres**
+<img src="./result/valeur.png"/>
+
+L'analyse en composante principale nous indique qu'on aurait pu réduire nos features en **6 composantes** principales pour la modélisation.
 
 
 
