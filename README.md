@@ -21,7 +21,15 @@ lien du dataset [kaggle](https://www.kaggle.com/datasets/uciml/mushroom-classifi
 ## 3. Entrainer une régression logistique , une SVM, ACP
 Nous modélisons notre problème de classification avec une regression logistique , une SVM et aller plus loin en réduction de dimension.  
 ### Régression logistique
+L'entraînement du classifieur nous donne une précison de **0.95**
+<img src="./result/reg_log.png"/>
+
+Après la recherche de meilleurs *Hyperparamètres* avec **GridSearchCV** , nous obtenons une précision de **0.96**: le modèle peut faire des prédictions avec **20 %** moins d'erreur.
 ### SVM
+L'entraînement du classifieur nous donne une précision de **0.94**.
+<img src="./result/svm.png"/>
+
+
 ### ACP
 
 
