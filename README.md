@@ -28,8 +28,10 @@ Après la recherche de meilleurs *Hyperparamètres* avec **GridSearchCV** , nous
 ### SVM
 L'entraînement du classifieur nous donne une précision de **0.94**.
 <img src="./result/svm.png"/>
-
+Il n'y a pas d'amélioration. 
 
 ### ACP
+Etait-il pertinent de prendre toutes les dimentions à notre disposition? Nous allons y répondre en faisant une analyse en composante principale (ACP).
+
 
 
